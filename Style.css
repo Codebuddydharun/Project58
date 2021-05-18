@@ -1,0 +1,33 @@
+ body{
+  text-align:center;
+}
+img{
+  border-radius:50%;
+  width:100px;
+}
+h1{
+  text-shadow:2px 2px #F8BBDO;
+  font-size:20px;
+}
+
+.section1{
+    background-color: coral;
+}
+
+#section2{
+    background-color: orange;
+}
+.menu1{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+   
+}
+.links:hover{
+    text-decoration: underline;
+}
+
